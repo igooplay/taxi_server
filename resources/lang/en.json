@@ -1,0 +1,5 @@
+{
+    "crud.payment.cancel_charge": "Cancel Charge",
+    "api.transaction.user_trip_cancel": "User ride cancel charge",
+    "admin.dispute_msgs.saved": "Dispute request summited"
+}
